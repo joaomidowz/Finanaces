@@ -1,0 +1,29 @@
+{
+  "transactions": [
+    {
+      "name": "Conta de água",
+      "amount": -60,
+      "id": "4"
+    },
+    {
+      "name": "Conta de luz",
+      "amount": -150,
+      "id": "5"
+    },
+    {
+      "name": "Internet",
+      "amount": -100,
+      "id": "ce4f"
+    },
+    {
+      "id": "0c7c",
+      "name": "Salário",
+      "amount": 1700
+    },
+    {
+      "name": "paçoca",
+      "amount": -0.5,
+      "id": "7bdd"
+    }
+  ]
+}
