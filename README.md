@@ -1,42 +1,42 @@
-# 🚀 Minhas Finanças - README 🚀
+# 🚀 My Finances - README 🚀
 
-## Sobre o Projeto
+## About the Project
 
-O projeto "Minhas Finanças" é uma aplicação simples para gerenciar transações financeiras. Ele permite ao usuário adicionar novas transações, editar transações existentes e excluir transações. Além disso, exibe o saldo atual e o histórico de transações.
+The "My Finances" project is a simple application for managing financial transactions. It allows users to add new transactions, edit existing ones, and delete transactions. Additionally, it displays the current balance and transaction history.
 
-## Tecnologias Utilizadas:
+## Technologies Used:
 
-- **HTML:** Linguagem de marcação para estruturar a página.
-- **CSS:** Estilização para tornar a página visualmente atraente.
-- **JavaScript:** Adiciona interatividade e dinamismo à página.
+- **HTML:** Markup language for structuring the page.
+- **CSS:** Styling to make the page visually appealing.
+- **JavaScript:** Adds interactivity and dynamism to the page.
 
-## Funcionalidades Implementadas:
+## Implemented Features:
 
-- **Adicionar Transação:** Permite ao usuário adicionar uma nova transação com nome e valor.
-- **Editar Transação:** Possibilidade de editar uma transação existente, incluindo seu nome e valor.
-- **Excluir Transação:** Permite ao usuário excluir uma transação existente.
-- **Exibição de Saldo:** Mostra o saldo atual, calculado com base nas transações adicionadas.
-- **Histórico de Transações:** Exibe o histórico completo de todas as transações realizadas.
+- **Add Transaction:** Allows users to add a new transaction with a name and value.
+- **Edit Transaction:** Enables editing an existing transaction, including its name and value.
+- **Delete Transaction:** Allows users to delete an existing transaction.
+- **Balance Display:** Shows the current balance, calculated based on added transactions.
+- **Transaction History:** Displays the complete history of all transactions.
 
-## Como Utilizar
+## How to Use
 
-1. Clone o repositório para o seu ambiente de desenvolvimento local.
-2. Certifique-se de ter o Node.js instalado em seu sistema.
-3. No terminal, navegue até o diretório do projeto e execute `npm install` para instalar as dependências.
-4. Inicie o servidor JSON com o seguinte comando:
-Isso iniciará o servidor JSON e monitorará o arquivo `db.json` para quaisquer alterações.
-5. Abra o arquivo `index.html` em seu navegador preferido.
-6. Adicione, edite ou exclua transações conforme necessário.
-7. Observe o saldo atual e o histórico de transações sendo atualizados dinamicamente.
+1. Clone the repository to your local development environment.
+2. Ensure that **Node.js** is installed on your system.
+3. In the terminal, navigate to the project directory and run `npm install` to install dependencies.
+4. Start the JSON server with the following command:
+   This will start the JSON server and monitor the `db.json` file for any changes.
+5. Open the `index.html` file in your preferred browser.
+6. Add, edit, or delete transactions as needed.
+7. Observe the current balance and transaction history being dynamically updated.
 
-## Estrutura do Projeto
+## Project Structure
 
-- **index.html:** Página principal da aplicação, contendo a interface do usuário.
-- **index.js:** Script JavaScript responsável pela lógica da aplicação.
-- **style.css:** Folha de estilos CSS para estilizar a página.
+- **index.html:** Main application page containing the user interface.
+- **index.js:** JavaScript script responsible for the application logic.
+- **style.css:** CSS stylesheet for page styling.
 
-## Observações
+## Notes
 
-- Este projeto é apenas uma demonstração e pode ser expandido com mais funcionalidades e melhorias de UX/UI.
+- This project is just a demonstration and can be expanded with more features and UX/UI improvements.
 
-Divirta-se gerenciando suas finanças com o projeto "Minhas Finanças"! 💰💻📊
+Have fun managing your finances with the "My Finances" project! 💰💻📊
